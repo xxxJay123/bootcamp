@@ -1,0 +1,29 @@
+[
+  {
+    "name" : "Eric Lau",
+    "phone": 1234
+  },
+  {
+    "name" : "John Lau",
+    "phone": 1234
+  },
+  {
+    "name" : "Peter Chan",
+    "phone": 1234
+  }
+]
+// After Filter
+[
+  {
+    "name" : "Eric Lau",
+    "phone": 1234
+  },
+  {
+    "name" : "John Lau",
+    "phone": 1234
+  }
+]
+// After map() and collect() -> List<String>
+[
+  "Eric Lau", "John Lau"
+]

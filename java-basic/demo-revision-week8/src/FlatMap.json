@@ -1,0 +1,28 @@
+[
+  {
+    "name" : "Ann",
+    "addresses" : [
+      "Hong Kong", "Mainland", "Japan"
+    ]
+  },
+  {
+    "name" : "Betty",
+    "addresses" : [
+      "Taiwan", "US"
+    ]
+  }
+]
+// Map
+[
+  [
+    "Hong Kong", "Mainland", "Japan"
+  ],
+  [
+    "Taiwan", "US"
+  ]
+]
+
+// FlatMap
+[
+  "Hong Kong", "Mainland", "Japan","Taiwan", "US"
+]
